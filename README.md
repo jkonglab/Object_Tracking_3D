@@ -8,3 +8,6 @@
 
 ## Reference
 [Hanyi Yu, Fusheng Wang, Sung Bo Yoon, Robert Kauffman, Jens Wrammert, Adam Marcus, Jun Kong, “Non-Gaussian Models for Object Motion Analysis with Time-lapse Fluorescence Microscopy Images,” Modern Statistical Methods for Health Research, pp:15-41, Springer, 2021.](https://link.springer.com/chapter/10.1007/978-3-030-72437-5_2)
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
